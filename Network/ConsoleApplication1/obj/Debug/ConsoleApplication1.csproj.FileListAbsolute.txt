@@ -13,3 +13,8 @@ Z:\Three thing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplicat
 Z:\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 Z:\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 Z:\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+G:\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
