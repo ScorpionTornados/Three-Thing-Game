@@ -4,15 +4,18 @@ using System.Net.Sockets;
 using System.Net;
 using System.Linq;
 using System.IO;
-using System.Collections.Generic;
 using System.Threading;
 
 namespace ConsoleApplication1
 {
     class Program
     {
+        //this is where all of the sections of the arguments are being used
+        public List<string> listArgs = new List<string>();
+
         public static void runServer()
         {
+
             Console.WriteLine("Server (Y), Client (N)");
             if (Console.ReadLine() == "y")//server
             {
@@ -55,6 +58,16 @@ namespace ConsoleApplication1
 
                 sr.BaseStream.ReadTimeout = 2000;
                 sw.BaseStream.WriteTimeout = 2000;
+
+                string request = sr.ReadToEnd().Trim();
+
+                String[] sections = request.Split(new char[] { '|' });
+
+                for(int i = 0; i < sections.Length; i++)
+                {
+
+                }
+
             }
 
 
