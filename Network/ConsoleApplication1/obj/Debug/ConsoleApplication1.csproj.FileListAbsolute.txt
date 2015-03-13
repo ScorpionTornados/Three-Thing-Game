@@ -10,3 +10,6 @@ Z:\Three thing\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplicat
 \\data.adir.hull.ac.uk\home4\463\463572\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 \\data.adir.hull.ac.uk\home4\463\463572\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 \\data.adir.hull.ac.uk\home4\463\463572\GitHub\Three-Thing-Game\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+Z:\Three-Thing-Game\Network\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+Z:\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Z:\Three-Thing-Game\Network\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

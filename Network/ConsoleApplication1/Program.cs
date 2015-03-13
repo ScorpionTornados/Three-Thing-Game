@@ -88,7 +88,9 @@ namespace ConsoleApplication1
 
                 socketStream.ReadTimeout = 1000;
                 socketStream.WriteTimeout = 1000;
-                
+
+                string start = sr.ReadToEnd().Trim();
+
             }
         }
 
